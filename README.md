@@ -1,16 +1,17 @@
-### Hi there 👋
+## About Me
 
-<!--
-**chleighton1/chleighton1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello! I'm Charles, product focused Software Engineer who thrives in dynamic environments where innovation and collaboration are at the forefront.
 
-Here are some ideas to get you started:
+🚀 Recently, I completed a Software Engineer Internship at Matt Young Media, where I was immersed in building full-stack web applications using TypeScript, React, Node, Express, and MongoDB. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Background**
+- 🎬 9 years in post-production for film/tv industry
+- 🍽️ Work in bars and resturants
+
+👨‍💻 Looking to take my background and use it to build great tools and solutions 
+
+🔧 JavaScript, TypeScript, React, Express, Nextjs, TailwindCSS, Python and Flask 🔧
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/charlesleighton)
+- 🌐 [www.chleighton.live](https://www.chleighton.live)
+- 📧 [chleighton1@gmail.com](mailto:chleighton1@gmail.com)
