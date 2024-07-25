@@ -2,7 +2,7 @@
 
 👋 Hello! I'm Charles, product focused Software Engineer who thrives in dynamic environments where innovation and collaboration are at the forefront.
 
-👨‍💻 Currently working as a Junior Full Stack Developer at Cinemaloop, helping to champion inclusion and connections among diverse movie fans and cinema subculture.
+👨‍💻 Currently working as a Full Stack Developer at Cinemaloop, helping to champion inclusion and connections among diverse movie fans and cinema subculture.
 
 **Background**
 - 🎬 Post-production for film/tv
